@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md. Saiful Bari Siddiqui</h1>
 
-<!--
-**saiful-bari/saiful-bari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Machine Learning Researcher
+  <br>
+  Senior Lecturer, School of Data & Sciences, BRAC University
+</h2>
 
-Here are some ideas to get you started:
+🔭 &nbsp; I’m currently working on **Multi-Modal Deep Learning, Biomedical Imaging, Signal & Image Processing, Bioinformatics, and Computational Social Science.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 &nbsp; Explore my full portfolio and all my projects on my **[Personal Website](https://saiful-bari.github.io/)**.
+
+🌱 &nbsp; I'm also creating a free YouTube course on **[Machine Learning & Deep Learning in Bangla](https://youtube.com/playlist?list=PLPfbpzAKHDr2ZFP39PUTOhfy5bgaOGPGi&si=Y4dGrDOW0AZ6kUqq)**.
+
+📫 &nbsp; How to reach me: **saifulbariiftu@gmail.com** or **saiful.bari@bracu.ac.bd**
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://saiful-bari.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=kSXa-48AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar" />
+  </a>
+  <a href="https://www.youtube.com/@saifulbariiftu/playlists" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech & Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
